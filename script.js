@@ -26,7 +26,7 @@ $(document).ready(function(){
 
 // Text typing animations
 var typed = new Typed(".typing", {
-strings:['A Former SWE Intern at IpserLab', 'An Information Technology Associates Program Intern', 'A Pakistan National Informatics Olympiad Gold Medalist', 'An Undergraduate Student', 'Freshman Chair at Women In Computer Science', 'President for Computing Opportunities For Students of Color', 'The Chief Executive Officer at Zyana', 'A Former Content Writing Intern at Penumbra Digital', 'A Former Core Team Leader at Energy Clinic Pakistan', 'A College Counsellor at Sahaeli', 'The Lead Coding Mentor at Cyber Allies', 'The Chair at International Computer Science Association', 'A Life Long Learner', 'An Entrepreneur', 'A Travel Lover'],
+strings:['','A Former SWE Intern at IpserLab', 'An Information Technology Associates Program Intern', 'A Pakistan National Informatics Olympiad Gold Medalist', 'An Undergraduate Student', 'Freshman Chair at Women In Computer Science', 'President for Computing Opportunities For Students of Color', 'The Chief Executive Officer at Zyana', 'A Former Content Writing Intern at Penumbra Digital', 'A Former Core Team Leader at Energy Clinic Pakistan', 'A College Counsellor at Sahaeli', 'The Lead Coding Mentor at Cyber Allies', 'The Chair at International Computer Science Association', 'A Life Long Learner', 'An Entrepreneur', 'A Travel Lover'],
 typeSpeed: 90,
 backSpeed: 35,
 loop: true
